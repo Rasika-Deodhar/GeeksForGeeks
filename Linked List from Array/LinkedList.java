@@ -18,7 +18,6 @@ class LinkedList{
 
     Node arrayToLinkedList(int arr[]){
 
-        Node newNode = null;
         Node pointer = this.linkedList;
 
         if(arr.length == 0){
@@ -74,5 +73,7 @@ class LinkedList{
         LinkedList ll = new LinkedList();
         ll_head = ll.arrayToLinkedList(arr);
         ll.iterateLinkedList();
+
+        input.close();
     }
 }
