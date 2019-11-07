@@ -103,6 +103,7 @@ class gfg {
         Node temp = head.next;
         Node new_ll, new_ll_add, t;
         Node h = head;
+        //make a new LL from the old one.
         
 
         new_ll = new_ll_add = t = null;
