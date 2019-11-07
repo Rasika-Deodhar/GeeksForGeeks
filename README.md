@@ -7,3 +7,4 @@ Doubly Linked List - Rotating by p nodes : (https://practice.geeksforgeeks.org/p
 Linked List - find number of nodes : (https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1)
 Linked List - sum of 2 nodes : (https://practice.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1)
 Linked List - reorder list : (https://practice.geeksforgeeks.org/problems/reorder-list/1) - code in progress
+Linked List - Union of 2 lists : (https://practice.geeksforgeeks.org/problems/union-of-two-linked-list/1)
